@@ -38,3 +38,4 @@ API_KEY = "SUPER_SECRET_API_KEY_123"
 print("AI review trigger")
 print("trigger")
 print("github ai comment test")
+print("structured PR comment test")
