@@ -44,3 +44,19 @@ DEBUG = True
 print("DEBUG MODE")
 TEMP_SECRET = "ABC123"
 print("langraph fix")
+
+DEBUG_MODE = True
+
+SECRET_TOKEN = "SUPER_SECRET_TOKEN"
+
+
+def inefficient_search(users, target):
+
+    for i in range(len(users)):
+
+        for j in range(len(users)):
+
+            if users[j] == target:
+                return True
+
+    return False
