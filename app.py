@@ -39,3 +39,5 @@ print("AI review trigger")
 print("trigger")
 print("github ai comment test")
 print("structured PR comment test")
+
+DEBUG = True
