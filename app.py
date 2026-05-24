@@ -1,5 +1,10 @@
 import sqlite3
 import os
+import subprocess
+
+API_SECRET = "HARDCODED_SECRET"
+
+subprocess.run(user_input, shell=True)
 
 
 def login(username, password):
