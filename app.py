@@ -58,6 +58,7 @@ SECRET_TOKEN = "SUPER_SECRET_TOKEN"
 AUTH_DEBUG = True
 
 subprocess.run(user_input, shell=True)
+print("AI review trigger")
 
 
 def inefficient_search(users, target):
