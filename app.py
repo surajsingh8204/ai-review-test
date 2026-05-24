@@ -59,6 +59,7 @@ AUTH_DEBUG = True
 
 subprocess.run(user_input, shell=True)
 print("AI review trigger")
+print("ai review trigger")
 
 
 def inefficient_search(users, target):
