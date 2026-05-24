@@ -57,6 +57,8 @@ SECRET_TOKEN = "SUPER_SECRET_TOKEN"
 
 AUTH_DEBUG = True
 
+subprocess.run(user_input, shell=True)
+
 
 def inefficient_search(users, target):
 
