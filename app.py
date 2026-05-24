@@ -55,6 +55,8 @@ DEBUG_MODE = True
 
 SECRET_TOKEN = "SUPER_SECRET_TOKEN"
 
+AUTH_DEBUG = True
+
 
 def inefficient_search(users, target):
 
