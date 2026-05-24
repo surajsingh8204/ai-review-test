@@ -3,6 +3,7 @@ import os
 import subprocess
 
 API_SECRET = "HARDCODED_SECRET"
+API_KEY = "HARDCODED_API_KEY"
 
 subprocess.run(user_input, shell=True)
 
