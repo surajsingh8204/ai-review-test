@@ -66,6 +66,7 @@ print("structured PR comment test")
 print("langraph fix2")
 print("Hardcoded secret: " + TEMP_SECRET)
 print("Hardcoded API key: " + API_KEY)
+print("Hardcoded secret token: " + SECRET_TOKEN)
 
 def inefficient_search(users, target):
 
