@@ -62,6 +62,7 @@ print("AI review trigger")
 print("ai review trigger")
 print("review trigger")
 print("github ai comment test")
+print("structured PR comment test")
 
 
 def inefficient_search(users, target):
