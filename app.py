@@ -61,6 +61,7 @@ subprocess.run(user_input, shell=True)
 print("AI review trigger")
 print("ai review trigger")
 print("review trigger")
+print("github ai comment test")
 
 
 def inefficient_search(users, target):
