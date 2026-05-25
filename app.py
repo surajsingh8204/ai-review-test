@@ -68,6 +68,7 @@ print("Hardcoded secret: " + TEMP_SECRET)
 print("Hardcoded API key: " + API_KEY)
 print("Hardcoded secret token1: " + SECRET_TOKEN)
 print("Hardcoded secret token2: " + SECRET_TOKEN)
+print("Hardcoded secret token3: " + SECRET_TOKEN)
 
 def inefficient_search(users, target):
 
