@@ -64,7 +64,7 @@ print("review trigger")
 print("github ai comment test")
 print("structured PR comment test")
 print("langraph fix2")
-print("langraph test6")
+print("Hardcoded secret: " + TEMP_SECRET)
 
 def inefficient_search(users, target):
 
