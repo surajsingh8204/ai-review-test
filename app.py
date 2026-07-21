@@ -72,6 +72,8 @@ print("Hardcoded secret token3: " + SECRET_TOKEN)
 print("Hardcoded secret token4: " + SECRET_TOKEN)
 print("Hardcoded secret token5: " + SECRET_TOKEN)
 print("Hardcoded secret token6: " + SECRET_TOKEN)
+print("Hardcoded secret token7: " + SECRET_TOKEN)
+print("Hardcoded secret token8: " + SECRET_TOKEN)
 
 def inefficient_search(users, target):
 
